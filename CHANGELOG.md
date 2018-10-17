@@ -1,5 +1,9 @@
 # CHANGELOG for timezone_iii
 
+## 1.1.7 (10/17/2018)
+
+- [iamjohnnym] - Added Ubuntu-18.04 into Kitchen
+
 ## 1.1.6 (12/30/2017)
 
 - [limitusus] - Removed unnecessary RHEL7 recipe resources
