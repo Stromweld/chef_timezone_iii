@@ -1,3 +1,5 @@
+This cookbook is deprectated and as of chef 14.6 is now apart of chef resources https://docs.chef.io/resource_timezone.html
+
 [![Chef cookbook](https://img.shields.io/cookbook/v/timezone_iii.svg)]()
 [![Code Climate](https://codeclimate.com/github/Stromweld/timezone_iii/badges/gpa.svg)](https://codeclimate.com/github/Stromweld/timezone_iii)
 [![Issue Count](https://codeclimate.com/github/Stromweld/timezone_iii/badges/issue_count.svg)](https://codeclimate.com/github/Stromweld/timezone_iii)
